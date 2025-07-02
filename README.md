@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="/img/logo.png" alt="" width="300px;"></a>
+  <a><img src="/img/logo.svg" alt="" width="300px;"></a>
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-blue">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/THOR-Forensics-Toolkit">
