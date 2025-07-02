@@ -71,3 +71,6 @@ This repository does not contain the THOR Lite binaries or rules. You must obtai
 
 ---
 
+## 📬 Contact
+
+For questions, contact: `kh4sh3i@gmail.com` or open an [Issue](https://github.com/kh4sh3i/thor-lite-forensics/issues)
