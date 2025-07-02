@@ -58,7 +58,7 @@ thor64-lite.exe --quick --soft --htmlfile report.html
 ```
 
 <h1 align="center">
-  <a><img src="/img/poc.png" alt="" width="500px;"></a>
+  <a><img src="/img/poc.png" alt="" width="100%;"></a>
 </h1>
 ---
 
