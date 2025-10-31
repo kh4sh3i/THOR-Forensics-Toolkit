@@ -40,6 +40,7 @@ This repository contains documentation, automation scripts, and sample outputs r
 ### ▶️ Windows
 ```powershell
 thor64-lite.exe --htmlfile report.html
+thor64-lite.exe --quick --soft --csvfile scan_results.csv
 ```
 
 ### ▶️ Linux
